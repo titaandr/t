@@ -3,5 +3,6 @@ public class main {
 //        init
         System.out.println("ok");
         System.out.println("2");
+        System.out.println("dev");
     }
 }
